@@ -18,7 +18,6 @@ C++ проект, который позволяет:
 │   ├── TsvParser/
 │   ├── SandMatrix/
 │   ├── bmpCreator/
-
 ├── CMakeLists.txt
 └── README.md
 ```
